@@ -1,0 +1,11 @@
+{
+  "name": "atividade-9-plp",
+  "version": "1.0.0",
+  "description": "Basic OOP Concepts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
